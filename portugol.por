@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		kshadkjhsdakjhsda
-	}
+	}f,xfgh
 }
 /* $$$ Portugol Studio $$$ 
  * 
