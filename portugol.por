@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		
+		kshadkjhsdakjhsda
 	}
 }
 /* $$$ Portugol Studio $$$ 
